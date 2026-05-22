@@ -1,0 +1,10 @@
+title: Little things matter
+description: A site about music and favorite artists
+author: RichR
+baseurl: ""
+url: "https://richr-code.github.io"
+markdown: kramdown
+theme: minima
+
+plugins:
+  - jekyll-feed
